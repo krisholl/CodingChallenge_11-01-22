@@ -1,0 +1,15 @@
+C:\Users\krish\Documents\Revature\Onboarding\AtBash_Cypher\AtBash_Cypher\AtBash_Cypher\bin\Debug\net6.0\AtBash_Cypher.exe
+C:\Users\krish\Documents\Revature\Onboarding\AtBash_Cypher\AtBash_Cypher\AtBash_Cypher\bin\Debug\net6.0\AtBash_Cypher.deps.json
+C:\Users\krish\Documents\Revature\Onboarding\AtBash_Cypher\AtBash_Cypher\AtBash_Cypher\bin\Debug\net6.0\AtBash_Cypher.runtimeconfig.json
+C:\Users\krish\Documents\Revature\Onboarding\AtBash_Cypher\AtBash_Cypher\AtBash_Cypher\bin\Debug\net6.0\AtBash_Cypher.dll
+C:\Users\krish\Documents\Revature\Onboarding\AtBash_Cypher\AtBash_Cypher\AtBash_Cypher\bin\Debug\net6.0\AtBash_Cypher.pdb
+C:\Users\krish\Documents\Revature\Onboarding\AtBash_Cypher\AtBash_Cypher\AtBash_Cypher\obj\Debug\net6.0\AtBash_Cypher.csproj.AssemblyReference.cache
+C:\Users\krish\Documents\Revature\Onboarding\AtBash_Cypher\AtBash_Cypher\AtBash_Cypher\obj\Debug\net6.0\AtBash_Cypher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krish\Documents\Revature\Onboarding\AtBash_Cypher\AtBash_Cypher\AtBash_Cypher\obj\Debug\net6.0\AtBash_Cypher.AssemblyInfoInputs.cache
+C:\Users\krish\Documents\Revature\Onboarding\AtBash_Cypher\AtBash_Cypher\AtBash_Cypher\obj\Debug\net6.0\AtBash_Cypher.AssemblyInfo.cs
+C:\Users\krish\Documents\Revature\Onboarding\AtBash_Cypher\AtBash_Cypher\AtBash_Cypher\obj\Debug\net6.0\AtBash_Cypher.csproj.CoreCompileInputs.cache
+C:\Users\krish\Documents\Revature\Onboarding\AtBash_Cypher\AtBash_Cypher\AtBash_Cypher\obj\Debug\net6.0\AtBash_Cypher.dll
+C:\Users\krish\Documents\Revature\Onboarding\AtBash_Cypher\AtBash_Cypher\AtBash_Cypher\obj\Debug\net6.0\refint\AtBash_Cypher.dll
+C:\Users\krish\Documents\Revature\Onboarding\AtBash_Cypher\AtBash_Cypher\AtBash_Cypher\obj\Debug\net6.0\AtBash_Cypher.pdb
+C:\Users\krish\Documents\Revature\Onboarding\AtBash_Cypher\AtBash_Cypher\AtBash_Cypher\obj\Debug\net6.0\AtBash_Cypher.genruntimeconfig.cache
+C:\Users\krish\Documents\Revature\Onboarding\AtBash_Cypher\AtBash_Cypher\AtBash_Cypher\obj\Debug\net6.0\ref\AtBash_Cypher.dll
